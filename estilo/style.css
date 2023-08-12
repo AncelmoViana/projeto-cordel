@@ -40,7 +40,7 @@ header > h1{
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte-titulo);
-    font-size: 6.5vw;
+    font-size: 6em;
 }
 header > p{
     padding-bottom: 50px;
